@@ -46,7 +46,7 @@ GROQ_API_KEY=your-api-key-here
 python main.py
 ```
 
-2. Open the Gradio interface in your browser (typically at http://127.0.0.1:7860)
+2. Open the Gradio interface in your browser (at http://127.0.0.1:7860)
 
 3. Upload a video file and the app will:
    - Extract the audio
@@ -69,3 +69,10 @@ The application uses:
 - `.env` - Environment file for storing your Groq API key (not tracked by git)
 - input_video.mov - Example input video file
 - output_with_subtitles.mp4 - Example output video with subtitles
+
+
+## Demo output:
+https://github.com/user-attachments/assets/1c04146c-168e-4d23-b1d2-66df0e91e8b1
+
+
+
